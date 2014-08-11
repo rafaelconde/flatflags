@@ -6,6 +6,11 @@ Built with Sketch app, by Bohemian Coding (source file included).
 
 ![Scrolling GIF](https://raw.githubusercontent.com/rafaelconde/flatflags/master/screenshots/scrolling.gif)
 
+##Download:
+
+[Right here](https://github.com/rafaelconde/flatflags/archive/master.zip) – @1x and @2x versions of all of the images and the Sketch source file
+
+
 ##List of Countries/Languages:
 
 * Arabic (language)
