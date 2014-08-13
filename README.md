@@ -21,6 +21,7 @@ Built with Sketch app, by Bohemian Coding (source file included).
 * India
 * Italy
 * Japan
+* Nigeria
 * Portugal
 * Russia
 * Spain
