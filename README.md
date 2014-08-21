@@ -15,15 +15,21 @@ Built with Sketch app, by Bohemian Coding (source file included).
 
 * Arabic (language)
 * Brazil
+* Botswana
+* Burkina Faso
+* Cameroon
 * China
 * France
 * Germany
+* Guinea
 * India
 * Italy
 * Japan
 * Nigeria
 * Portugal
 * Russia
+* Senegal
+* Sierra Leone
 * Spain
 * Switzerland
 * United Kingdom
