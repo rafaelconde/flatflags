@@ -15,19 +15,26 @@ Built with Sketch app, by Bohemian Coding (source file included).
 
 * Arabic (language)
 * Brazil
+* Botswana [by @udezekene](https://github.com/udezekene)
+* Burkina Faso [by @udezekene](https://github.com/udezekene)
+* Cameroon [by @udezekene](https://github.com/udezekene)
 * China
 * France
 * Germany
+* Guinea [by @udezekene](https://github.com/udezekene)
 * India
 * Italy
 * Japan
 * Nigeria [by @udezekene](https://github.com/udezekene)
 * Portugal
 * Russia
+* Senegal [by @udezekene](https://github.com/udezekene)
+* Sierra Leone [by @udezekene](https://github.com/udezekene)
 * Spain
 * Switzerland
 * United Kingdom
 * United States of America
+
 
 ![Screenshot](https://raw.githubusercontent.com/rafaelconde/flatflags/master/screenshots/screenshot.png)
 
