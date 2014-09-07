@@ -32,6 +32,8 @@ Built with Sketch app, by Bohemian Coding (source file included).
 * Sierra Leone [by @udezekene](https://github.com/udezekene)
 * Spain
 * Switzerland
+* Sweden [by @theolampert](http://github.com/theolampert)
+* Norway [by @theolampert](http://github.com/theolampert)
 * United Kingdom
 * United States of America
 
