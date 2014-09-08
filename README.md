@@ -14,6 +14,7 @@ Built with Sketch app, by Bohemian Coding (source file included).
 ##List of Countries/Languages:
 
 * Arabic (language)
+* Bahamas [by @killa-kyle](https://github.com/killa-kyle)
 * Brazil
 * Botswana [by @udezekene](https://github.com/udezekene)
 * Burkina Faso [by @udezekene](https://github.com/udezekene)
