@@ -13,7 +13,7 @@ Built with Sketch app, by Bohemian Coding (source file included).
 
 ##List of Countries/Languages:
 
-* Arabic (language)
+* Arabic (language) 
 * Bahamas [by @killa-kyle](https://github.com/killa-kyle)
 * Belgium [by @wietsevr](https://github.com/wietsevr)
 * Brazil
